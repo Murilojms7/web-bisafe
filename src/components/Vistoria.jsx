@@ -3,7 +3,7 @@ export default function Vistoria(){
         <>
         
         <h1 class="survey">Vistoria</h1>
-        <hr class="survey_line" color="#000000"></hr>
+        <hr class="survey_line" color="#000"></hr>
        
         <div id="bike_ns">
             <h1>Número de série</h1>
@@ -31,12 +31,12 @@ export default function Vistoria(){
         </div>
 
         <div id="bike_fd">
-            <h1>Freio dianteiro</h1>
+            <h1>Freio Dianteiro</h1>
             <input class="input_fd" name="text" type="file" />
         </div>
 
         <div id="bike_rt">
-            <h1>Roda traseira</h1>
+            <h1>Roda Traseira</h1>
             <input class="input_rt" name="text" type="file" />
         </div>
 

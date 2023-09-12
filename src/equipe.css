@@ -1,0 +1,225 @@
+#line_team{
+    position: relative;
+    width: 90vw;
+    float: left;
+    margin-top: 10rem;
+    margin-left: 2rem;
+}
+.team{
+    display: flex;
+    float: left;
+    margin-top: 4rem;
+    margin-left: 38.2rem;
+}
+#line_team_mini{
+    position: relative;
+    width: 7vw;
+    float: left;
+    margin-top: 7.5rem;
+    margin-left: -6.4rem;
+}
+
+/* Alysson */
+
+#alysson{
+    float: left;
+    display: flex;
+    margin-top: 12rem;
+    margin-left: -34rem;
+    width: 15%;
+}
+
+#name_a{
+    display: flex;
+    float: left;
+    margin-top: 25rem;
+    margin-left: -34rem;
+    font-size: 1.5rem;
+}
+
+#alysson_rm{
+    display: flex;
+    float: left;
+    margin-top: 28rem;
+    margin-left: -32.5rem;
+    font-size: 1.5rem;
+}
+
+#alysson_github{
+    display: flex;
+    float: left;
+    margin-top: 31rem;
+    margin-left: -32rem;
+    width: 7vh;
+}
+#alysson_linkedin{
+    display: flex;
+    float: left;
+    margin-top: 30.5rem;
+    margin-left: -28rem;
+    width: 8vh;
+}
+
+/* Arthur */
+
+#arthur{
+    float: left;
+    display: flex;
+    margin-top: 12rem;
+    margin-left: -10rem;
+    width: 15%;
+}
+
+#name_ar{
+    display: flex;
+    float: left;
+    margin-top: 25rem;
+    margin-left: -10.8rem;
+    font-size: 1.5rem;
+}
+
+#arthur_rm{
+    display: flex;
+    float: left;
+    margin-top: 27.8rem;
+    margin-left: -10.5rem;
+    font-size: 1.5rem;
+}
+
+#arthur_github{
+    display: flex;
+    float: left;
+    margin-top: 31rem;
+    margin-left: -10.5rem;
+    width: 7vh;
+}
+#arthur_linkedin{
+    display: flex;
+    float: left;
+    margin-top: 30.5rem;
+    margin-left: -6.5rem;
+    width: 8vh;
+}
+
+/* Benjamin */
+
+#benjamin{
+    float: left;
+    display: flex;
+    margin-top: 12rem;
+    margin-left: 9rem;
+    width: 15%;
+}
+
+#name_b{
+    display: flex;
+    float: left;
+    margin-top: 25rem;
+    margin-left: -12rem;
+    font-size: 1.5rem;
+}
+
+#benjamin_rm{
+    display: flex;
+    float: left;
+    margin-top: 27.5rem;
+    margin-left: -10rem;
+    font-size: 1.5rem;
+}
+
+#benjamin_github{
+    display: flex;
+    float: left;
+    margin-top: 31rem;
+    margin-left: -9.5rem;
+    width: 7vh;
+}
+#benjamin_linkedin{
+    display: flex;
+    float: left;
+    margin-top: 30.6rem;
+    margin-left: -5.5rem;
+    width: 8vh;
+}
+
+/* Henrique */
+
+#henrique{
+    float: left;
+    display: flex;
+    margin-top: 12rem;
+    margin-left: 22rem;
+    width: 15%;
+}
+
+#name_h{
+    display: flex;
+    float: left;
+    margin-top: 25rem;
+    margin-left: -12rem;
+    font-size: 1.5rem;
+}
+
+#henrique_rm{
+    display: flex;
+    float: left;
+    margin-top: 28rem;
+    margin-left: -10rem;
+    font-size: 1.5rem;
+}
+
+#henrique_github{
+    display: flex;
+    float: left;
+    margin-top: 31rem;
+    margin-left: -10rem;
+    width: 7vh;
+}
+#henrique_linkedin{
+    display: flex;
+    float: left;
+    margin-top: 30.5rem;
+    margin-left: -6rem;
+    width: 8vh;
+}
+
+/* Murilo */
+
+#murilo{
+    float: left;
+    display: flex;
+    margin-top: 12rem;
+    margin-left: 11rem;
+    width: 15%;
+}
+
+#name_m{
+    display: flex;
+    float: left;
+    margin-top: 25rem;
+    margin-left: -10.5rem;
+    font-size: 1.5rem;
+}
+
+#murilo_rm{
+    display: flex;
+    float: left;
+    margin-top: 28rem;
+    margin-left: -10rem;
+    font-size: 1.5rem;
+}
+
+#murilo_github{
+    display: flex;
+    float: left;
+    margin-top: 31rem;
+    margin-left: -10rem;
+    width: 7vh;
+}
+#murilo_linkedin{
+    display: flex;
+    float: left;
+    margin-top: 30.5rem;
+    margin-left: -6rem;
+    width: 8vh;
+}

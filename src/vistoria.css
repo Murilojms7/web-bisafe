@@ -1,0 +1,310 @@
+/* region Vistoria */
+
+.survey{
+    display: flex;
+    float: left;
+    margin-top: 5rem;
+    margin-left: 38rem;
+  }
+
+  .survey_line{
+    position: relative;
+    width: 5vw;
+    float: left;
+    margin-top: 8.6rem;
+    margin-left: -5.7rem;
+  }
+  
+  /* Número de série */
+
+  #bike_ns{
+      display: flex;
+      float: left;
+      margin-top: 10rem;
+      margin-left: -38rem;
+    }
+
+    .input_ns {
+      margin: 30px;
+      background: none;
+      border: none;
+      outline: none;
+      max-width: 298px;
+      padding: 10px 10.5px;
+      font-size: 0.9rem;
+      border-radius: 9px;
+      box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+      color: #fff;
+      display: flex;
+      float: left;
+      margin-top: 5rem;
+      margin-left: -17rem;
+    }
+
+    /* Foto da Bicicleta */
+
+  #bike_fb{
+    display: flex;
+    float: left;
+    margin-top: 10rem;
+    margin-left: -12rem;
+  }
+
+  .input_fb {
+    margin: 30px;
+      background: none;
+      border: none;
+      outline: none;
+      max-width: 298px;
+      padding: 10px 10.5px;
+      font-size: 0.9rem;
+      border-radius: 9px;
+      box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+      color: #fff;
+      display: flex;
+      float: left;
+      margin-top: 5rem;
+      margin-left: -17rem;
+  }
+  
+  /* Guidão */
+  
+  #bike_g{
+    display: flex;
+    float: left;
+    margin-top: 10rem;
+    margin-left: 12rem;
+  }
+
+  .input_g {
+    margin: 30px;
+      background: none;
+      border: none;
+      outline: none;
+      max-width: 298px;
+      padding: 10px 10.5px;
+      font-size: 0.9rem;
+      border-radius: 9px;
+      box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+      color: #fff;
+      display: flex;
+      float: left;
+      margin-top: 5rem;
+      margin-left: -14rem;
+  }
+
+  /* Freio traseiro */
+
+  #bike_ft{
+    display: flex;
+    float: left;
+    margin-top: 2rem;
+    margin-left: 9rem;
+  }
+
+  .input_ft {
+    margin: 30px;
+      background: none;
+      border: none;
+      outline: none;
+      max-width: 298px;
+      padding: 10px 10.5px;
+      font-size: 0.9rem;
+      border-radius: 9px;
+      box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+      color: #fff;
+      display: flex;
+      float: left;
+      margin-top: 5rem;
+      margin-left: -15.7rem;
+  }
+
+  /* Banco */
+
+  #bike_b{
+    display: flex;
+    float: left;
+    margin-top: 2rem;
+    margin-left: 11em;
+  }
+
+  .input_b {
+    margin: 30px;
+      background: none;
+      border: none;
+      outline: none;
+      max-width: 298px;
+      padding: 10px 10.5px;
+      font-size: 0.9rem;
+      border-radius: 9px;
+      box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+      color: #fff;
+      display: flex;
+      float: left;
+      margin-top: 5rem;
+      margin-left: -13rem;
+  }
+
+  /* Freio dianteiro */
+
+  #bike_fd{
+    display: flex;
+    float: left;
+    margin-top: 2rem;
+    margin-left: 8rem;
+  }
+
+  .input_fd {
+    margin: 30px;
+      background: none;
+      border: none;
+      outline: none;
+      max-width: 298px;
+      padding: 10px 10.5px;
+      font-size: 0.9rem;
+      border-radius: 9px;
+      box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+      color: #fff;
+      display: flex;
+      float: left;
+      margin-top: 5rem;
+      margin-left: -16.8rem;
+  }
+
+  /* Roda dianteira */
+
+  #bike_rt{
+    display: flex;
+    float: left;
+    margin-top: 2rem;
+    margin-left: 9rem;
+  }
+
+  .input_rt {
+    margin: 30px;
+      background: none;
+      border: none;
+      outline: none;
+      max-width: 298px;
+      padding: 10px 10.5px;
+      font-size: 0.9rem;
+      border-radius: 9px;
+      box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+      color: #fff;
+      display: flex;
+      float: left;
+      margin-top: 5rem;
+      margin-left: -15.6rem;
+  }
+
+  /* Coroa e Pedal */
+
+  #bike_cp{
+    display: flex;
+    float: left;
+    margin-top: 2rem;
+    margin-left: 7rem;
+  }
+
+  .input_cp {
+    margin: 30px;
+      background: none;
+      border: none;
+      outline: none;
+      max-width: 298px;
+      padding: 10px 10.5px;
+      font-size: 0.9rem;
+      border-radius: 9px;
+      box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+      color: #fff;
+      display: flex;
+      float: left;
+      margin-top: 5rem;
+      margin-left: -16rem;
+  }
+
+  /* Roda dianteira */
+
+  #bike_rd{
+    display: flex;
+    float: left;
+    margin-top: 2rem;
+    margin-left: 8rem;
+  }
+
+  .input_rd {
+    margin: 30px;
+      background: none;
+      border: none;
+      outline: none;
+      max-width: 298px;
+      padding: 10px 10.5px;
+      font-size: 0.9rem;
+      border-radius: 9px;
+      box-shadow: inset 2px 5px 10px rgb(5, 5, 5);
+      color: #fff;
+      display: flex;
+      float: left;
+      margin-top: 5rem;
+      margin-left: -17rem;
+  }
+
+  /* Enviar arquivos */
+
+  .bn_send_ar {
+    font-family: inherit;
+    font-size: 20px;
+    background: royalblue;
+    color: white;
+    padding: 0.7em 1em;
+    padding-left: 0.9em;
+    display: flex;
+    align-items: center;
+    border: none;
+    border-radius: 16px;
+    overflow: hidden;
+    transition: all 0.2s;
+    float: left;
+    margin-left: -42rem;
+    margin-top: 13rem;    
+  }
+  
+  .bn_send_ar span {
+    display: block;
+    margin-left: 0.3em;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .bn_send_ar svg {
+    display: block;
+    transform-origin: center center;
+    transition: transform 0.3s ease-in-out;
+  }
+  
+  .bn_send_ar:hover .svg-wrapper {
+    animation: fly-1 0.6s ease-in-out infinite alternate;
+  }
+  
+  .bn_send_ar:hover svg {
+    transform: translateX(1.2em) rotate(45deg) scale(1.1);
+  }
+  
+  .bn_send_ar:hover span {
+    transform: translateX(5em);
+  }
+  
+  .bn_send_ar:active {
+    transform: scale(0.95);
+  }
+  
+  @keyframes fly-1 {
+    from {
+      transform: translateY(0.1em);
+    }
+  
+    to {
+      transform: translateY(-0.1em);
+    }
+  }  
+
+  /* endregion Vistoria */

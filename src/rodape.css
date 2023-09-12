@@ -1,0 +1,21 @@
+footer{
+    background-color: #ffffff;
+    width: 101%;
+    float: left;
+    margin-top: 20rem;
+    margin-left: -0.4rem;
+}
+
+.copyright_bisafe{
+    color: black;
+    float: left;
+    display: flex;
+    margin-left: 38rem;
+}
+.copyright{
+    color: black;
+    float: left;
+    display: flex;
+    margin-left: 32rem;
+    margin-top: -1rem;
+}

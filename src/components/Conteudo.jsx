@@ -61,19 +61,22 @@ export default function Conteudo(props) {
 
         <div className="about">
             <div>
-                <h1 id="about_bisafe">Sobre a Bisafe</h1>
+                <h1 id="about_bisafe">Sobre</h1>
             </div>
             <div id="mission">
-                <h1 id="about_mission">Nossa tarefa é trazer segurança para você, através do <br/> 
-                contrato de seguro totalmente remoto e fácil. Acabando com as fraudes que existem.</h1>
+                <h1 id="about_mission">À medida que o ciclismo ganha cada vez mais popularidade 
+                como meio de transporte e lazer, as seguradoras de bicicletas precisam se adaptar 
+                para atender às necessidades em constante evolução de seus clientes. O Chatbot de 
+                Proteção para Seguradoras de Bicicleta da Bisafe é uma prova de que a 
+                tecnologia pode desempenhar um papel fundamental nessa adaptação, tornando o seguro de 
+                bicicleta mais acessível, eficiente e amigável para os ciclistas.</h1>
             </div>
 
             <hr class="about_line" color="#000000"></hr>
         </div>
-        <hr class="we_offer_line" color="#000000"></hr>
 
         <div>
-            <div >
+            <div>
                 <img src={facilidade} alt={altFacilidade} id="facility" />
                 <h2 id="facilidade">Facilidade</h2>
                 <p id="about_facility">Permitir que os clientes realizem a vistoria de seus  <br />
@@ -116,7 +119,13 @@ export default function Conteudo(props) {
                 <h1 id="plan">Nossos planos</h1>
                 <hr class="plan_line" color="#000000"></hr>
             </div>
-
+            <div>
+                <ul class="plans">
+                    <li> Plano Básico</li>
+                    <li> Plano Médio</li>
+                    <li> Plano Super</li>
+                </ul>
+            </div>
 
 
 

@@ -1,7 +1,8 @@
 import Cabecalho from "./components/Cabecalho";
 import Conteudo from "./components/Conteudo";
-import Rodape from "./components/Rodape";
+import Vistoria from "./components/Vistoria";
 import Equipe from "./components/Equipe";
+import Rodape from "./components/Rodape";
 
 export default function App(){
 
@@ -12,10 +13,12 @@ export default function App(){
           <Cabecalho/>
         {/*Conteúdo da página*/}
           <Conteudo/>
+        {/*Conteúdo da página*/}
+          <Vistoria/>
         {/*Equipe da página*/}
-          {/* <Equipe/> */}
+          <Equipe/>
         {/*Rodapé da página*/}
-        {/* <Rodape/> */}
+          <Rodape/>
       </div>
     </>
   )

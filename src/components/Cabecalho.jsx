@@ -7,6 +7,7 @@ export default function Cabecalho(props){
 
        <nav>
         <ul>
+          {/*aqui terão os links para navegar pelo menu */}
             <li class="cabecalho__item-menu"> <a href="sobre.html#contato"> Início </a> </li>
             <li class="cabecalho__item-menu"> <a href="#"> Planos </a> </li>
             <li class="cabecalho__item-menu" > <a href="#" id="cabecalho_main"> Bisafe </a> </li>
